@@ -2,7 +2,7 @@
 import pygmae
 
 pygmae.int()
-screen = pygmae.display.set_mode((600.800))
+screen = pygmae.display.set_mode((600.600))
 clock = pygmae.time.clock()
 
 
